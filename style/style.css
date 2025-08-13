@@ -243,4 +243,121 @@ nav ul li{
     margin-bottom:32px;
 }
 
+    /* My Inspiration Section start here  */
 
+.inspiration{
+    width: 1140px;
+    height: 775px;
+    margin:0 auto;
+    margin-top:90px;
+    margin-bottom:150px;
+   
+}
+.inspiration-text-content{
+    width: 852px;
+    height: 113px;
+    margin:0 auto;
+  
+}
+.section-inspiration-title{
+    color: rgba(13, 19, 33, 1);
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom:20px;
+}
+.inspiration-description{
+    color: rgba(13, 19, 33, 1);
+    font-size: 14px;
+    font-weight: 400;
+    opacity: 0.7;
+}
+.video-content {
+    margin-top:48px;
+    padding:32px;
+   
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+}
+
+/* My current target section styles start here  */
+
+.target{
+    width: 1140px;
+    height: 460px;
+    margin:0 auto;
+
+}
+.target-text-content{
+    width: 852px;
+    height: 113px;
+    margin:0 auto;
+   
+}
+.target-title{
+    color: rgba(13, 19, 33, 1);
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom:24px;
+
+}
+.target-text-description{
+    color: rgba(13, 19, 33, 1);
+    font-size: 16px;
+    font-weight: 400;
+}
+.education-skills-container{
+    width: 1140px;
+    height: 299px;
+    display:flex;
+    gap:24px;
+    margin-top:48px;
+    
+}
+.skill-content{
+    width: 364px;
+    height: 299px;
+    padding:40px;
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+    
+}
+.img{
+    width: 56px;
+    height: 56px;
+    margin-bottom: 24px;
+}
+.skill-txt-title {
+    color: rgba(13, 19, 33, 1);
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+.skill-txt-description{
+    color: rgba(13, 19, 33, 1);
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+}
+#learn {
+    color: rgba(13, 19, 33, 1);
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration: underline;
+    margin-top:24px;
+}
+.skill-content-second{
+    width: 364px;
+    height: 299px;
+    padding:40px;
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+    
+}
+.skill-content-third{
+    width: 364px;
+    height: 299px;
+    padding:40px;
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+   
+}
