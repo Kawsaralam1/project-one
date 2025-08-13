@@ -13,6 +13,18 @@ body{
     height:5200px;
     border:2px solid red;
 }
+
+/* common or shared styles  */
+.text-center{
+    text-align: center;
+}
+
+
+
+
+
+/* nav styles start here  */
+
 nav{
     margin:50px 100px;
     display:flex;
@@ -89,3 +101,146 @@ nav ul li{
     border-radius: 8px;
     background: rgba(13, 19, 33, 1);
 }
+
+
+/* Web Development Section Styles Start here  */
+
+.web-development-section{
+    width: 1140px;
+    height: 1370px;
+    margin:0 auto; 
+    border-radius: 16px;
+    margin-top:70px;
+    padding:80px 100px;
+    background: rgba(13, 19, 33, 0.02);
+}
+
+.section-title{
+    color: rgba(13, 19, 33, 1);
+    font-size: 32px;
+    font-weight: 700;
+    margin-top:70px;
+    margin-bottom:20px;
+}
+.development-description{
+    width: 850px;
+    height: 100px;
+    margin:0 auto;
+    text-align: center;
+    color: rgba(13, 19, 33, 1);
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+}
+/* The World div start here  */
+.the-world{
+    width:890px;
+    height:300px;
+    margin:0 auto;
+    display:flex;
+    justify-content: center;
+    gap:90px;
+    padding:48px;
+    border-radius: 10px;
+    background: linear-gradient(90.00deg, rgba(255, 255, 255, 1),rgba(255, 255, 255, 0) 100%);
+}
+.the-world-content{
+    width:448px;
+    height:205px;
+}
+.world-content-title{
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom:15px;
+}
+.the-world-description{
+    color: rgba(13, 19, 33, 1);
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    margin-bottom:30px;
+}
+.world-btn{
+    padding: 12px 20px 12px 20px;
+    font-family: Azeret Mono;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 1);
+    opacity: 0.7;
+}
+.image-content{
+    width: 274.17px;
+    height: 240px;
+}
+/* web system styles start here  */
+.web-system{
+    width:890px;
+    height:315px;
+    margin:0 auto;
+    gap:32px;
+    padding:45px; 
+    margin-top:30px;
+    border-radius: 16px;
+    background: linear-gradient(270.00deg, rgba(255, 255, 255, 1),rgba(255, 255, 255, 0) 100%);
+}
+.web-system-content{
+    width:830px;
+    height:240px;
+    display:flex;
+    justify-content: center;
+    gap:30px;
+    align-items: center;
+}
+.image-content2{
+    width: 240px;
+    height: 240px;
+}
+
+.websystem-text-container{
+    width:450px;
+    height:205px;
+}
+.websystem-content-title{
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom:14px;
+}
+.websystem-description{
+    color: rgba(13, 19, 33, 1);
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom:30px;
+}
+/* Change the world div3 start here  */
+.change-world-section{
+    width:890px;
+    height:315px;
+    margin:0 auto;
+    margin-top:32px;
+    padding:48px;
+    display:flex;
+    justify-content: space-between;
+    border-radius: 16px;
+    background: linear-gradient(90.00deg, rgba(255, 255, 255, 1),rgba(255, 255, 255, 0) 100%);
+}
+.world-text-content{
+    width: 477px;
+    height: 219px;
+   
+}
+.world-text-title{
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 22px;
+    font-weight: 600;
+    margin-top:10px;
+    margin-bottom:16px;
+}
+.world-text-description{
+    color: rgba(13, 19, 33, 1);
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom:32px;
+}
+
+
