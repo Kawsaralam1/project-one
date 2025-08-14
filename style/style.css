@@ -285,6 +285,7 @@ nav ul li{
     width: 1140px;
     height: 460px;
     margin:0 auto;
+    
 
 }
 .target-text-content{
@@ -359,5 +360,107 @@ nav ul li{
     padding:40px;
     border-radius: 16px;
     background: rgba(255, 223, 0, 0.05);
-   
+}
+    
+/* My Next Target Section start here  */
+#next-target{
+    width:1140px;
+    height:890px;
+    margin:0 auto;
+    margin-top: 100px;
+  
+}
+.next-target-txt-content{
+    width: 852px;
+    height: 113px;
+    margin:0 auto;
+}
+.next-target-title{
+    color: rgba(13, 19, 33, 1);
+    font-size: 32px;
+    font-weight:600;
+}
+.next-target-description{
+    color: rgba(13, 19, 33, 1);
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+}
+.first-skill-container{
+    width: 1140px;
+    height: 219px;
+    padding:40px;
+    margin-top:35px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 1);
+    
+}
+
+.learn-content{
+    width: 1060px;
+    height: 139px;
+    gap:32px;
+    margin:0 auto;
+    display:flex;
+}
+.image-container{
+    width: 94.78px;
+    height: 108px;
+}
+.learn-text-contain{
+    width: 936px;
+    height: 139px;
+}
+
+.react{
+    color: rgba(13, 19, 33, 1);
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+.react-description{
+    color: rgba(13, 19, 33, 1);
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    margin-bottom: 24px;
+
+}
+.react-learn{
+    color: rgba(13, 19, 33, 1);
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration:underline;
+}
+.second-skill-container{
+    width: 1140px;
+    height: 219px;
+    padding:40px;
+    margin-top:24px;
+    margin-bottom:24px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 1);
+    
+}
+.second-image-container{
+    width: 143.51px;
+    height: 88px;
+}
+.third-skill-container{
+    width: 1140px;
+    height: 219px;
+    padding:40px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 1);
+    
+}
+.third-image-container{
+    width: 108px;
+    height: 108px;
 }
